@@ -1,7 +1,6 @@
 #include <iostream>
 #include <conio.h>
 #include <fstream>
-
 using namespace std;
 int main(){
 	int pilihan, harga, hasil, total;
